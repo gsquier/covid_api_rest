@@ -1,4 +1,4 @@
-# COUNTRY COVID TEST ACTIVITY API REST
+# Country Covid19 Test Activity API REST
 API REST which allows to request the testing results made during COVID pandemic by country and date. 
 
 ## 1º STEP: Create Connection.
