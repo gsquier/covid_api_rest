@@ -2,6 +2,7 @@ from flask import Flask, request
 from flask_restful import Api, Resource, reqparse, abort, fields, marshal_with
 import json
 
+# creates the local api
 app = Flask(__name__)
 api = Api(app)
 
